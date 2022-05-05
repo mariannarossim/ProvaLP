@@ -4,7 +4,8 @@ import java.util.Scanner;
 public class Questao03 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		int menu = 0;
 		
 		Scanner entrada = new Scanner(System.in);
         
